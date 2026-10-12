@@ -1,3 +1,0 @@
-Bro  es individual...
-
-Pero lo mas facil de programar seria un Biblioteca

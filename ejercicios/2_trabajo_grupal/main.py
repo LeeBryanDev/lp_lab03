@@ -1,8 +1,6 @@
 # main.py
 
-import random
 import controlador
-import modelo
 import vista
 
 def main():
